@@ -11,7 +11,6 @@ ReactDOM.createRoot(root).render(
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="/sobre" element={<Sobre />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
